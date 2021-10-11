@@ -1,4 +1,4 @@
-# Corrector-de-Peliulas-MKV
+# Corrector-de-Peliculas-MKV
 Corrector de Películas MKV y Adaptador de Carátulas *JPG* Compatibles con (Universal Media Server)
 
 Con este programa podrás realizar las siguientes correcciones de las películas en formato MKV:
