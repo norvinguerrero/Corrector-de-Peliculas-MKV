@@ -1,4 +1,20 @@
-# Corrector-de-Peliculas-MKV
+# Corrector de Películas MKV v2.5
+
+1- Se ha agregado la funcionabilidad de corrección automática de múltiples películas en formato MKV. Con la finalidad de darle soporte a las Series x temporadas para PLEX, EMBY, Jellyfin, Universal Media Server y Kody:
+
+  Nomenclatura para series: Nombre serie - S01E001 - Título del capítulo
+           Ejemplo: Dragon Ball Super - S01E022 - La resurrección de Vegeta 
+
+  Nomenclatura para películas : Nombre película -  Título película - Año
+           Ejemplo:  X-Men - Apocalypse - 2016
+
+  Donde "S01" es la temporada y "E001" es el capítulo. Tal y como están establecidos en los estándares para los servicios de PLEX, 
+  Emby, Jellyfin, Universal Media Server y Kody.
+  
+  
+Old. Release.
+
+# Corrector-de-Peliculas-MKV v2.1
 Corrector de Películas MKV y Adaptador de Carátulas *JPG* Compatibles con (Universal Media Server)
 
 Con este programa podrás realizar las siguientes correcciones de las películas en formato MKV:
